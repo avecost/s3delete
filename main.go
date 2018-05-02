@@ -18,7 +18,6 @@ func main() {
 		return
 	}
 
-	//bucket := os.Args[1]
 	fileToRemove := os.Args[2]
 
 	// Initialize a client using Spaces
